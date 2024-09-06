@@ -1,4 +1,4 @@
-##  Fotografia: Sua galeria de imagens personalizada!
+##  Fotografia: Sua galeria de imagens personalizada! - Imersão Dev com Google Gemini
 
 **O que faz essa aplicação?**
 
